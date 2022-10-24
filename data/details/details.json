@@ -1,0 +1,242 @@
+[
+    {
+        "id": "f6e36cbd-9860-46cf-8b6a-23a2a3dcf935",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "category_id": "1",
+        "place": "Cox’s Bazar",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 4,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.9,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118830.24477523137!2d91.93286107484828!3d21.451043355950617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7ea2ab928c3%3A0x3b539e0a68970810!2sCox&#39;s%20Bazar!5e0!3m2!1sen!2sbd!4v1666585509566!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "75c08325-c338-4fae-99af-52628cad97a9",
+        "category_id": "1",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-2.png?alt=media&token=8e725fed-d1a5-4f97-8e1d-bcda2b5b85a5",
+        "place": "Cox’s Bazar",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 2,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118830.24477523137!2d91.93286107484828!3d21.451043355950617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7ea2ab928c3%3A0x3b539e0a68970810!2sCox&#39;s%20Bazar!5e0!3m2!1sen!2sbd!4v1666585509566!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "2dd47bb4-38cc-4925-8467-a6ae06fc4062",
+        "category_id": "1",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "Cox’s Bazar",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "room_details": {
+            "guests": 3,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 44,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118830.24477523137!2d91.93286107484828!3d21.451043355950617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7ea2ab928c3%3A0x3b539e0a68970810!2sCox&#39;s%20Bazar!5e0!3m2!1sen!2sbd!4v1666585509566!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "b33767af-6c5c-4704-9eb3-bf866966e42b",
+        "category_id": "3",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "SreeMangle",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 4,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.9,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58175.104192886356!2d91.65740438391884!3d24.31358794353279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37517a7a9ac91745%3A0x50f827893a88c955!2sSreemangal!5e0!3m2!1sen!2sbd!4v1666586050919!5m2!1sen!2sbd' ></iframe>"
+    },
+    {
+        "id": "a48b9437-464d-4a6e-bff1-564034be2e71",
+        "category_id": "3",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-2.png?alt=media&token=8e725fed-d1a5-4f97-8e1d-bcda2b5b85a5",
+        "place": "SreeMangle",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 2,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58175.104192886356!2d91.65740438391884!3d24.31358794353279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37517a7a9ac91745%3A0x50f827893a88c955!2sSreemangal!5e0!3m2!1sen!2sbd!4v1666586050919!5m2!1sen!2sbd' ></iframe>"
+    },
+    {
+        "id": "18a49ff6-d7af-45d1-9fa1-b39ccfe9d003",
+        "category_id": "3",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "SreeMangle",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "room_details": {
+            "guests": 3,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 44,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58175.104192886356!2d91.65740438391884!3d24.31358794353279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37517a7a9ac91745%3A0x50f827893a88c955!2sSreemangal!5e0!3m2!1sen!2sbd!4v1666586050919!5m2!1sen!2sbd' ></iframe>"
+    },
+    {
+        "id": "66a33bed-c9ce-4ded-bd55-06c62c6a8ebb",
+        "category_id": "2",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "Sundar Ban",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 4,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.9,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123014.8567662677!2d89.71817936157667!3d22.39795855458294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a004dc6db4e2a8d%3A0x439f0905dc1f7392!2sThe%20Sundarbans%20(Bangladesh)!5e0!3m2!1sen!2sbd!4v1666585754231!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "a6817783-d3d5-4c5e-9bc5-ac20818f1915",
+        "category_id": "2",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-2.png?alt=media&token=8e725fed-d1a5-4f97-8e1d-bcda2b5b85a5",
+        "place": "Sundar Ban",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 2,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123014.8567662677!2d89.71817936157667!3d22.39795855458294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a004dc6db4e2a8d%3A0x439f0905dc1f7392!2sThe%20Sundarbans%20(Bangladesh)!5e0!3m2!1sen!2sbd!4v1666585754231!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "088fdbe1-514b-4f5a-aad5-1686f280f760",
+        "category_id": "2",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "Sundar Ban",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "room_details": {
+            "guests": 3,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 44,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123014.8567662677!2d89.71817936157667!3d22.39795855458294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a004dc6db4e2a8d%3A0x439f0905dc1f7392!2sThe%20Sundarbans%20(Bangladesh)!5e0!3m2!1sen!2sbd!4v1666585754231!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "b8593f56-617b-493f-9310-0efc16ed56f3",
+        "category_id": "4",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "Sajek",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 4,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.9,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14648.75190537739!2d92.28618617229088!3d23.381416052106072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375262b11e9e190d%3A0xa35f430f8847b276!2sSajek!5e0!3m2!1sen!2sbd!4v1666586862423!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "16b36399-2e88-4010-915e-217515bb8555",
+        "category_id": "4",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-2.png?alt=media&token=8e725fed-d1a5-4f97-8e1d-bcda2b5b85a5",
+        "place": "Sajek",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "room_details": {
+            "guests": 2,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 34,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14648.75190537739!2d92.28618617229088!3d23.381416052106072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375262b11e9e190d%3A0xa35f430f8847b276!2sSajek!5e0!3m2!1sen!2sbd!4v1666586862423!5m2!1sen!2sbd'></iframe>"
+    },
+    {
+        "id": "cbec4d33-6c26-40e2-9941-9352742be359",
+        "category_id": "4",
+        "img": "https://firebasestorage.googleapis.com/v0/b/travel-guru-e5af1.appspot.com/o/travel-1.png?alt=media&token=23c57173-bf7d-4f47-a14f-735eb26957a1",
+        "place": "Sajek",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "room_details": {
+            "guests": 3,
+            "bedrooms": 2,
+            "bed": 2,
+            "bath": 2
+        },
+        "fexibility": "Cancellation fexibility availiable",
+        "rating": {
+            "rate_number": 4.6,
+            "out_of": 20
+        },
+        "price": 44,
+        "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14648.75190537739!2d92.28618617229088!3d23.381416052106072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375262b11e9e190d%3A0xa35f430f8847b276!2sSajek!5e0!3m2!1sen!2sbd!4v1666586862423!5m2!1sen!2sbd'></iframe>"
+    }
+]
